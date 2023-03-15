@@ -46,8 +46,8 @@ Until here we reach the confluence of two ways. Outlook will provide an option:
 
 Choose:
 
-- Open as a new calendar: Meaning that the ICS is imported as a new `folder` of events. You should notice that if you have logged in your school account to your phone and sync the calendar, the calendar synced is your default personal calendar rather than every calendars.
-- Import: This is to import the events in ICS to your default calendar. If you're using syncing function on your calendar, please choose this option.
+- Open as a new calendar: Meaning that the ICS is imported as a new "folder" of events. You should notice that if you have logged in your school account to your phone and sync the calendar, the calendar synced is only your default personal calendar rather than every calendars.
+- Import: This is to import the events in ICS to your default calendar. If you're syncing your calendar across devices, please choose this option.
 - Cancel: Choose this if you're giving up to do so.
 
 After that the events are imported. You can see them in your calendar view.

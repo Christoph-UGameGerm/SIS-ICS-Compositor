@@ -1,7 +1,7 @@
 # Export ICS from SIS
 
 ## Intro
-This tutorial is a tutorial about how to export ICS files from SIS. Please make sure you're connecting to CUHK(SZ) campus Wi-Fi/Wired LAN before your trial to connect. If you have connection difficulties feel free to contect ITSO
+This tutorial is a tutorial about how to export ICS files from SIS. Please make sure you're connecting to CUHK(SZ) campus Wi-Fi/Wired LAN before your trial to connect. If you have connection difficulties feel free to contact ITSO
 
 ## Start
 - Access SIS through i.cuhk.edu.cn or anyway you like
