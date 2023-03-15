@@ -14,6 +14,8 @@ Written and Tested under `Python 3.11.2`. Should be functional under any version
 ## Usage
 Run the script, then drag the folder of the unziped ICS files downloaded from SIS to the terminal window(equivalent to copy and paste the **FULL** path of the folder path). Press Enter and wait for its finish.
 
+Find the result in your ICS folder: `{folder}/composite.ICS`
+
 ## Detailed Info
 Copy one of the generated `VTIMEZONE` modules and all `VEVENT` modules to a single file. When copying one attribute disabled:
 
