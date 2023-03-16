@@ -34,3 +34,5 @@ This part is tutorial for who is not familiar with SIS ICS exporting, Outlook IC
 [How To Get The ICS?](ExportICS.md)
 
 [How To Import *composite.ics* To Outlook(Web & Client)](ImportICS.md)
+
+[DLC: How To Subscribe Blackboard Calendar](Blackboard.md)
